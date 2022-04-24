@@ -1,0 +1,19 @@
+{
+  "name": "Grokking",
+  "version": "0.0.1",
+  "description": "Aggregates knowledge of development topics",
+  "main": "index.js",
+  "authors": {
+    "name": "Sarah Dillard",
+    "email": "sarah.c.dillard@gmail.com"
+  },
+  "repository": "https://github.com/gideonrynn/learning_docs",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
